@@ -1,0 +1,23 @@
+JavaScript (JS)
+Functions
+CSS
+React
+Components
+Props
+State
+Buttons
+onClick
+Forms
+onSubmit
+Validation
+
+JAVASCRIPT
+javaScript is a programming language used to make web pages interactive and dynamic. It allows developers to perform calculations, handle user actions, validate forms, and update webpage content without reloading. JavaScript works with HTML and CSS to create attractive and functional websites. It is also widely used with React.
+
+summary
+ javaScript:Programming language used to make websites interactive and dynamic.
+USE STATE()
+State is an important concept in React used to store and manage changing data inside a component. When state changes, React automatically updates the user interface. The useState() hook is commonly used to create state variables and update their values.
+
+summary
+State: Stores changing data and automatically updates React user interfaces.
